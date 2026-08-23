@@ -8,7 +8,8 @@
     "setup": "setup.json"
   },
   "assets": [
-    "models/chinese_tea_table_1k.glb"
+    "models/chinese_tea_table_1k.glb",
+    "models/chinese_tea_table_1k.meta.json"
   ],
   "compatibility": {
     "engine": ">=0.1 <1.0"
