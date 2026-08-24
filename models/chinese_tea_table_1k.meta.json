@@ -1,0 +1,26 @@
+{
+  "locked": true,
+  "tags": [
+    "table"
+  ],
+  "lightmapStatic": true,
+  "collider": {
+    "mode": "custom",
+    "entries": [
+      {
+        "id": "collider-1",
+        "offset": {
+          "x": -0.001,
+          "y": 0.249,
+          "z": -0.001
+        },
+        "shape": "box",
+        "size": {
+          "x": 0.841,
+          "y": 0.499,
+          "z": 0.836
+        }
+      }
+    ]
+  }
+}
