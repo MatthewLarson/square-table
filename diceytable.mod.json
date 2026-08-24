@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "square-table",
   "name": "Square Table",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "table-pack",
   "entry": {
     "setup": "setup.json"
