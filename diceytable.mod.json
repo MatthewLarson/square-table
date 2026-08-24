@@ -8,6 +8,10 @@
     "setup": "setup.json"
   },
   "assets": [
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp",
+    "media/screenshot-1.webp",
     "models/chinese_tea_table_1k.glb",
     "models/chinese_tea_table_1k.meta.json"
   ],
@@ -21,5 +25,37 @@
     ]
   },
   "license": "MIT",
-  "tags": []
+  "tags": [
+    "table",
+    "square",
+    "two-player",
+    "four-player"
+  ],
+  "summary": "A square table for up to four players.",
+  "description": "A nice square table that can handle a two-player card game or a basic four-player board game.",
+  "players": {
+    "min": 1,
+    "max": 4
+  },
+  "coverImage": "media/cover.webp",
+  "screenshots": [
+    {
+      "path": "media/screenshot-1.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.036780196629213446,
+        "w": 1,
+        "h": 0.9264396067415731
+      }
+    },
+    {
+      "path": "media/screenshot-0.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.031162790697674414,
+        "w": 1,
+        "h": 0.9376744186046512
+      }
+    }
+  ]
 }
