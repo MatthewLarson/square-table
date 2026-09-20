@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "rendererVersion": 1,
+  "entries": {
+    "@materials/mat-faae7400-7f6a-4567-b196-67c2525c6927": {
+      "inputHash": "a273dc149db31232",
+      "file": "thumbnails/@materials/mat-faae7400-7f6a-4567-b196-67c2525c6927.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover-thumb.webp": {
+      "inputHash": "23ec3b84c6324d5a",
+      "file": "thumbnails/media/cover-thumb.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover.webp": {
+      "inputHash": "e9acce072ad6e64d",
+      "file": "thumbnails/media/cover.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/screenshot-0.webp": {
+      "inputHash": "aeac26740e856382",
+      "file": "thumbnails/media/screenshot-0.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-1.webp": {
+      "inputHash": "d3e3c3b5da118dee",
+      "file": "thumbnails/media/screenshot-1.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "models/chinese_tea_table.glb": {
+      "inputHash": "6e8fdf397adca258",
+      "file": "thumbnails/models/chinese_tea_table.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/chinese_tea_table.glb": {
+      "inputHash": "ebd31d1146790f10",
+      "file": "thumbnails/originals/chinese_tea_table.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/chinese_tea_table_1k.glb": {
+      "inputHash": "90554d90d4710fb5",
+      "file": "thumbnails/originals/chinese_tea_table_1k.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chinese-tea-table/diffuse-a36e1112.jpg": {
+      "inputHash": "1b6759c253cbc423",
+      "file": "thumbnails/textures/chinese-tea-table/diffuse-a36e1112.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chinese-tea-table/normal-d18fcd05.png": {
+      "inputHash": "d32bc91d928f8d2f",
+      "file": "thumbnails/textures/chinese-tea-table/normal-d18fcd05.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/chinese-tea-table/roughness-9ad8555b.png": {
+      "inputHash": "91e128ea21de9377",
+      "file": "thumbnails/textures/chinese-tea-table/roughness-9ad8555b.png.webp",
+      "width": 256,
+      "height": 256
+    }
+  }
+}
