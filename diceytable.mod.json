@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "square-table",
   "name": "Square Table",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "type": "table-pack",
   "entry": {
     "setup": "setup.json"
@@ -12,8 +12,11 @@
     "media/cover.webp",
     "media/screenshot-0.webp",
     "media/screenshot-1.webp",
-    "models/chinese_tea_table_1k.glb",
-    "models/chinese_tea_table_1k.meta.json"
+    "models/chinese_tea_table.glb",
+    "models/chinese_tea_table.meta.json",
+    "textures/chinese-tea-table/diffuse-a36e1112.jpg",
+    "textures/chinese-tea-table/normal-d18fcd05.png",
+    "textures/chinese-tea-table/roughness-9ad8555b.png"
   ],
   "compatibility": {
     "engine": ">=0.1 <1.0"
@@ -59,5 +62,45 @@
     }
   ],
   "category": "table-square",
-  "slug": "square-table"
+  "slug": "square-table",
+  "credits": [
+    {
+      "id": "credit-fad19506-bd9d-4e04-9870-a96fc3d330b0",
+      "paths": [
+        "models/chinese_tea_table.glb",
+        "models/chinese_tea_table.meta.json",
+        "textures/chinese-tea-table/diffuse-a36e1112.jpg",
+        "textures/chinese-tea-table/normal-d18fcd05.png",
+        "textures/chinese-tea-table/roughness-9ad8555b.png"
+      ],
+      "origin": "third-party",
+      "creator": "Console Art Cybernetic",
+      "creatorUrl": "https://sketchfab.com/cacybernetic",
+      "sourceUrl": "https://sketchfab.com/3d-models/chinese-tea-table-239731045e524daab2bc3204ac327848",
+      "licenseName": "Free Standard",
+      "licenseUrl": "https://sketchfab.com/licenses",
+      "recordedAt": "2026-09-20T00:37:43.698Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-20T00:37:43.698Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-ffc0b816-6aea-47e3-85c3-1a110d486987",
+      "paths": [
+        "media/screenshot-1.webp",
+        "media/screenshot-0.webp",
+        "media/cover.webp",
+        "media/cover-thumb.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-20T00:41:59.771Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-20T00:41:59.771Z",
+        "signedName": "Matt Larson"
+      }
+    }
+  ]
 }
